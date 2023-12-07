@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg">
 
-- 👨‍💻 All of my projects are available at [[https://syedtalhahussain.vercel.app/](https://syedtalhahussain.vercel.app/)]
+- 👨‍💻 All of my projects are available at [[https://syedtalhahussain.com/](https://syedtalhahussain.com/)]
 
 - 📫 How to reach me **pc16777.syedtalhahussain@gmail.com**
 
