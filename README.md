@@ -10,8 +10,6 @@
 # 💫 About Me:
 Hi, I’m Talha Hussain. I’m a full stack developer with a comprehensive skill set in frontend, backend, and database technologies. I specialize in the MERN stack, as well as DevOps and cloud solutions, which allows me to handle various development challenges with confidence<br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-talha-hussain-93b490253/) 
 
