@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FF00F7&background=000000&center=true&vCenter=true&width=600&lines=Crafting+digital+experiences+with+code;Automating+all+the+things;Turning+coffee+into+cloud+native+solutions" alt="Subtitle animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FF00F7&background=000000&center=true&vCenter=true&width=600&lines=From+Software+Engineer+to+DevOps+Engineer;Building+Cloud+Native+Solutions;Automating+Infrastructure+with+Code;Crafting+Scalable+Digital+Experiences" alt="Subtitle animation">
   </a>
 </p>
 # 💫 About Me:
