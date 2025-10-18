@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Talha+Hussain;%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%9A%80+DevOps+Enthusiast;%F0%9F%94%A5+Cloud+Native+Builder" alt="Typing animation">
 </p>
