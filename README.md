@@ -8,7 +8,7 @@
   </a>
 </p>
 # 💫 About Me:
-Hi, I’m Talha Hussain. I’m a full stack developer with a strong background in backend development and a growing specialization in DevOps and cloud solutions. Having transitioned from a Software Engineer (Backend) role, I now focus on building scalable systems, automating infrastructure, and integrating cloud-native technologies—while maintaining a solid command over the MERN stack and modern development practices.<br><br>
+Hi, I’m Talha Hussain. I’m a full stack developer with a strong background in backend development and a growing specialization in DevOps and cloud solutions. Having transitioned from a Software Engineer (Backend) role, I now focus on building scalable systems, automating infrastructure, and integrating cloud-native technologies.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-talha-hussain-93b490253/) 
